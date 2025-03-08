@@ -1,0 +1,1933 @@
+ Volume in drive C has no label.
+ Volume Serial Number is A88E-0899
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25
+
+03/08/2025  04:14 AM    <DIR>          .
+03/07/2025  11:34 PM    <DIR>          ..
+03/07/2025  11:34 PM    <DIR>          .bolt
+03/07/2025  11:34 PM               291 .env
+03/07/2025  11:34 PM               129 .env.example
+03/07/2025  11:34 PM               448 .env.production
+03/07/2025  11:34 PM                53 .firebaserc
+03/07/2025  11:34 PM               511 .gitignore
+03/07/2025  11:34 PM                 0 BertinDoYouSeeMe
+03/07/2025  11:34 PM               739 eslint.config.js
+03/08/2025  04:16 AM                 0 filelist.txt
+03/07/2025  11:34 PM               802 firebase.json
+03/07/2025  11:34 PM               727 firestore.indexes.json
+03/07/2025  11:34 PM             1,323 firestore.rules
+03/07/2025  11:34 PM               879 index.html
+03/07/2025  11:34 PM               391 netlify.toml
+03/07/2025  11:34 PM           220,183 package-lock.json
+03/07/2025  11:34 PM             1,976 package.json
+03/07/2025  11:34 PM                 0 playwright.config.ts
+03/07/2025  11:34 PM                80 postcss.config.js
+03/07/2025  11:34 PM    <DIR>          public
+03/07/2025  11:34 PM    <DIR>          server
+03/07/2025  11:34 PM    <DIR>          src
+03/07/2025  11:34 PM             1,060 storage.rules
+03/07/2025  11:34 PM    <DIR>          supabase
+03/07/2025  11:34 PM             1,708 tailwind.config.js
+03/07/2025  11:34 PM    <DIR>          tests
+03/07/2025  11:34 PM               776 tsconfig.app.json
+03/07/2025  11:34 PM               626 tsconfig.json
+03/07/2025  11:34 PM               479 tsconfig.node.json
+03/07/2025  11:34 PM               676 vite.config.ts
+              23 File(s)        233,857 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.bolt
+
+03/07/2025  11:34 PM    <DIR>          .
+03/08/2025  04:14 AM    <DIR>          ..
+03/07/2025  11:34 PM                39 config.json
+03/07/2025  11:34 PM               546 prompt
+               2 File(s)            585 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git
+
+03/08/2025  04:14 AM    <DIR>          ..
+03/08/2025  12:02 AM                21 COMMIT_EDITMSG
+03/07/2025  11:44 PM               306 config
+03/07/2025  11:36 PM                73 description
+03/07/2025  11:37 PM    <DIR>          fsmonitor--daemon
+03/07/2025  11:36 PM                23 HEAD
+03/07/2025  11:36 PM    <DIR>          hooks
+03/08/2025  12:02 AM            23,010 index
+03/07/2025  11:36 PM    <DIR>          info
+03/07/2025  11:37 PM    <DIR>          logs
+03/08/2025  12:02 AM    <DIR>          objects
+03/07/2025  11:44 PM    <DIR>          refs
+               5 File(s)         23,433 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\fsmonitor--daemon
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:09 AM    <DIR>          cookies
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\fsmonitor--daemon\cookies
+
+03/08/2025  12:09 AM    <DIR>          .
+03/07/2025  11:37 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\hooks
+
+03/07/2025  11:36 PM    <DIR>          .
+03/07/2025  11:36 PM               478 applypatch-msg.sample
+03/07/2025  11:36 PM               896 commit-msg.sample
+03/07/2025  11:36 PM             4,726 fsmonitor-watchman.sample
+03/07/2025  11:36 PM               189 post-update.sample
+03/07/2025  11:36 PM               424 pre-applypatch.sample
+03/07/2025  11:36 PM             1,643 pre-commit.sample
+03/07/2025  11:36 PM               416 pre-merge-commit.sample
+03/07/2025  11:36 PM             1,374 pre-push.sample
+03/07/2025  11:36 PM             4,898 pre-rebase.sample
+03/07/2025  11:36 PM               544 pre-receive.sample
+03/07/2025  11:36 PM             1,492 prepare-commit-msg.sample
+03/07/2025  11:36 PM             2,783 push-to-checkout.sample
+03/07/2025  11:36 PM             3,650 update.sample
+              13 File(s)         23,513 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\info
+
+03/07/2025  11:36 PM    <DIR>          .
+03/07/2025  11:36 PM               240 exclude
+               1 File(s)            240 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\logs
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM               399 HEAD
+03/07/2025  11:44 PM    <DIR>          refs
+               1 File(s)            399 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\logs\refs
+
+03/07/2025  11:44 PM    <DIR>          .
+03/07/2025  11:37 PM    <DIR>          ..
+03/07/2025  11:37 PM    <DIR>          heads
+03/07/2025  11:44 PM    <DIR>          remotes
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\logs\refs\heads
+
+03/07/2025  11:37 PM    <DIR>          .
+03/07/2025  11:44 PM    <DIR>          ..
+03/08/2025  12:02 AM               399 master
+               1 File(s)            399 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\logs\refs\remotes
+
+03/07/2025  11:44 PM    <DIR>          .
+03/07/2025  11:44 PM    <DIR>          ..
+03/07/2025  11:44 PM    <DIR>          origin
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\logs\refs\remotes\origin
+
+03/07/2025  11:44 PM    <DIR>          .
+03/07/2025  11:44 PM    <DIR>          ..
+03/08/2025  12:12 AM               342 master
+               1 File(s)            342 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects
+
+03/08/2025  12:02 AM    <DIR>          .
+03/07/2025  11:37 PM    <DIR>          00
+03/07/2025  11:37 PM    <DIR>          02
+03/07/2025  11:37 PM    <DIR>          09
+03/07/2025  11:37 PM    <DIR>          0a
+03/07/2025  11:37 PM    <DIR>          0b
+03/07/2025  11:37 PM    <DIR>          0d
+03/07/2025  11:37 PM    <DIR>          0e
+03/07/2025  11:37 PM    <DIR>          0f
+03/07/2025  11:37 PM    <DIR>          11
+03/07/2025  11:37 PM    <DIR>          12
+03/07/2025  11:37 PM    <DIR>          13
+03/07/2025  11:37 PM    <DIR>          14
+03/07/2025  11:37 PM    <DIR>          15
+03/07/2025  11:37 PM    <DIR>          17
+03/07/2025  11:37 PM    <DIR>          19
+03/07/2025  11:37 PM    <DIR>          1a
+03/07/2025  11:37 PM    <DIR>          1b
+03/07/2025  11:37 PM    <DIR>          1c
+03/07/2025  11:37 PM    <DIR>          1d
+03/07/2025  11:37 PM    <DIR>          1e
+03/07/2025  11:37 PM    <DIR>          21
+03/07/2025  11:37 PM    <DIR>          22
+03/07/2025  11:37 PM    <DIR>          23
+03/07/2025  11:37 PM    <DIR>          25
+03/07/2025  11:37 PM    <DIR>          26
+03/07/2025  11:37 PM    <DIR>          27
+03/07/2025  11:37 PM    <DIR>          2b
+03/07/2025  11:37 PM    <DIR>          2c
+03/07/2025  11:37 PM    <DIR>          2d
+03/07/2025  11:37 PM    <DIR>          2e
+03/07/2025  11:37 PM    <DIR>          30
+03/07/2025  11:37 PM    <DIR>          32
+03/07/2025  11:37 PM    <DIR>          33
+03/07/2025  11:37 PM    <DIR>          35
+03/07/2025  11:37 PM    <DIR>          36
+03/07/2025  11:37 PM    <DIR>          37
+03/07/2025  11:37 PM    <DIR>          38
+03/07/2025  11:37 PM    <DIR>          39
+03/07/2025  11:37 PM    <DIR>          3a
+03/07/2025  11:37 PM    <DIR>          3b
+03/07/2025  11:37 PM    <DIR>          3c
+03/07/2025  11:37 PM    <DIR>          3d
+03/07/2025  11:37 PM    <DIR>          3e
+03/07/2025  11:37 PM    <DIR>          3f
+03/07/2025  11:37 PM    <DIR>          40
+03/07/2025  11:37 PM    <DIR>          42
+03/07/2025  11:37 PM    <DIR>          43
+03/07/2025  11:37 PM    <DIR>          45
+03/07/2025  11:37 PM    <DIR>          46
+03/07/2025  11:37 PM    <DIR>          48
+03/07/2025  11:37 PM    <DIR>          4b
+03/07/2025  11:37 PM    <DIR>          4c
+03/07/2025  11:37 PM    <DIR>          4e
+03/07/2025  11:37 PM    <DIR>          55
+03/07/2025  11:37 PM    <DIR>          58
+03/07/2025  11:37 PM    <DIR>          5b
+03/07/2025  11:37 PM    <DIR>          5c
+03/07/2025  11:37 PM    <DIR>          61
+03/07/2025  11:37 PM    <DIR>          62
+03/07/2025  11:37 PM    <DIR>          63
+03/07/2025  11:37 PM    <DIR>          64
+03/07/2025  11:37 PM    <DIR>          65
+03/07/2025  11:37 PM    <DIR>          67
+03/07/2025  11:37 PM    <DIR>          68
+03/07/2025  11:37 PM    <DIR>          6b
+03/07/2025  11:37 PM    <DIR>          6c
+03/07/2025  11:37 PM    <DIR>          70
+03/07/2025  11:37 PM    <DIR>          71
+03/07/2025  11:37 PM    <DIR>          72
+03/07/2025  11:37 PM    <DIR>          74
+03/07/2025  11:37 PM    <DIR>          76
+03/07/2025  11:37 PM    <DIR>          7a
+03/07/2025  11:37 PM    <DIR>          7b
+03/07/2025  11:37 PM    <DIR>          7c
+03/07/2025  11:37 PM    <DIR>          7d
+03/07/2025  11:37 PM    <DIR>          81
+03/07/2025  11:37 PM    <DIR>          82
+03/07/2025  11:37 PM    <DIR>          83
+03/07/2025  11:37 PM    <DIR>          84
+03/07/2025  11:37 PM    <DIR>          85
+03/07/2025  11:37 PM    <DIR>          87
+03/07/2025  11:37 PM    <DIR>          88
+03/07/2025  11:37 PM    <DIR>          8b
+03/07/2025  11:37 PM    <DIR>          8e
+03/07/2025  11:37 PM    <DIR>          8f
+03/07/2025  11:37 PM    <DIR>          91
+03/07/2025  11:37 PM    <DIR>          94
+03/07/2025  11:37 PM    <DIR>          95
+03/07/2025  11:37 PM    <DIR>          96
+03/07/2025  11:37 PM    <DIR>          97
+03/07/2025  11:37 PM    <DIR>          98
+03/07/2025  11:37 PM    <DIR>          9b
+03/07/2025  11:37 PM    <DIR>          9d
+03/08/2025  12:02 AM    <DIR>          a0
+03/07/2025  11:37 PM    <DIR>          a2
+03/07/2025  11:37 PM    <DIR>          a4
+03/07/2025  11:37 PM    <DIR>          a7
+03/07/2025  11:37 PM    <DIR>          a8
+03/07/2025  11:37 PM    <DIR>          a9
+03/07/2025  11:37 PM    <DIR>          aa
+03/07/2025  11:37 PM    <DIR>          ad
+03/07/2025  11:37 PM    <DIR>          ae
+03/07/2025  11:37 PM    <DIR>          b4
+03/07/2025  11:37 PM    <DIR>          b5
+03/07/2025  11:37 PM    <DIR>          b7
+03/07/2025  11:37 PM    <DIR>          b9
+03/07/2025  11:37 PM    <DIR>          bb
+03/07/2025  11:37 PM    <DIR>          bc
+03/07/2025  11:37 PM    <DIR>          bd
+03/07/2025  11:37 PM    <DIR>          be
+03/07/2025  11:37 PM    <DIR>          c0
+03/07/2025  11:37 PM    <DIR>          c4
+03/07/2025  11:37 PM    <DIR>          c5
+03/07/2025  11:37 PM    <DIR>          c6
+03/07/2025  11:37 PM    <DIR>          c7
+03/07/2025  11:37 PM    <DIR>          c9
+03/07/2025  11:37 PM    <DIR>          ca
+03/07/2025  11:37 PM    <DIR>          cb
+03/07/2025  11:37 PM    <DIR>          cd
+03/07/2025  11:37 PM    <DIR>          ce
+03/07/2025  11:37 PM    <DIR>          cf
+03/07/2025  11:37 PM    <DIR>          d0
+03/07/2025  11:37 PM    <DIR>          d1
+03/07/2025  11:37 PM    <DIR>          d2
+03/07/2025  11:37 PM    <DIR>          d5
+03/07/2025  11:37 PM    <DIR>          d6
+03/07/2025  11:37 PM    <DIR>          d7
+03/07/2025  11:37 PM    <DIR>          d8
+03/07/2025  11:37 PM    <DIR>          da
+03/07/2025  11:37 PM    <DIR>          dc
+03/07/2025  11:37 PM    <DIR>          dd
+03/07/2025  11:37 PM    <DIR>          de
+03/07/2025  11:37 PM    <DIR>          df
+03/07/2025  11:37 PM    <DIR>          e0
+03/07/2025  11:37 PM    <DIR>          e1
+03/07/2025  11:37 PM    <DIR>          e2
+03/07/2025  11:37 PM    <DIR>          e3
+03/07/2025  11:37 PM    <DIR>          e4
+03/07/2025  11:37 PM    <DIR>          e5
+03/07/2025  11:37 PM    <DIR>          e6
+03/07/2025  11:37 PM    <DIR>          e8
+03/07/2025  11:37 PM    <DIR>          ea
+03/07/2025  11:37 PM    <DIR>          ed
+03/07/2025  11:37 PM    <DIR>          f0
+03/07/2025  11:37 PM    <DIR>          f4
+03/07/2025  11:37 PM    <DIR>          f5
+03/07/2025  11:37 PM    <DIR>          f8
+03/07/2025  11:37 PM    <DIR>          f9
+03/07/2025  11:37 PM    <DIR>          fa
+03/07/2025  11:37 PM    <DIR>          fb
+03/07/2025  11:37 PM    <DIR>          fc
+03/07/2025  11:37 PM    <DIR>          ff
+03/07/2025  11:36 PM    <DIR>          info
+03/07/2025  11:36 PM    <DIR>          pack
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\00
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               923 7679a1df16b1d17860e440a4deec4566ba49f9
+               1 File(s)            923 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\02
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               748 3b9a9712d7707bf6aa5bfb407919f50e9732a9
+03/08/2025  12:02 AM               489 fd324736915d385f48a121c5578360a738727d
+               2 File(s)          1,237 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\09
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               962 ffe3830a0cc8594f077fcabaf36506a0a04394
+               1 File(s)            962 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\0a
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               968 9d06393aeaf5bdd2dff822fd2c2e35ad444182
+               1 File(s)            968 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\0b
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM             1,584 04fffa2302e1de6b934c9e5e4dc8f736597833
+               1 File(s)          1,584 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\0d
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               286 3d71446a455c5f997e3cffb25099dab0f74a9b
+03/08/2025  12:02 AM             2,347 fad6ef36f8c7c743ef6bd79385afeafbf89c2a
+               2 File(s)          2,633 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\0e
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               132 408568457cea8866db15177601a949d76e9b9e
+03/08/2025  12:02 AM               136 91ebd43d4364d7af4c615ebdf19b1688b51a3f
+03/08/2025  12:02 AM             1,292 d5d66c42f755721fa03390be4894914aa39a9d
+               3 File(s)          1,560 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\0f
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM             1,073 ac52235fe0d9cec4e9d78be9674ea99c3be7bf
+03/08/2025  12:02 AM               736 e809d074ed63d8426e13d9f646fa3ee77ebd68
+               2 File(s)          1,809 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\11
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM             1,400 adc20d01d5ef647d70a69b64d8e2512006e2e4
+               1 File(s)          1,400 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\12
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               322 e8274cb656e7acc538398093f4af28e39f145b
+03/08/2025  12:02 AM               944 fda60221585494320c5dc00f5384095fc05625
+               2 File(s)          1,266 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\13
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM             2,722 29991f8f32e8a3ed551ae7aa4ff36b31303e0c
+03/08/2025  12:02 AM               670 9fe569eef28e4fb640b17df9f01f144c688b78
+               2 File(s)          3,392 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\14
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               744 d821b6f771fc568b878efe570a3de591706e46
+               1 File(s)            744 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\15
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM             5,303 6c802d272b0c27c7c464850d44e751db27a755
+               1 File(s)          5,303 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\17
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               938 d933390150b380e950261ccc346b4ed057aea3
+               1 File(s)            938 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\19
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM             1,037 3c53116930386ec6f8c99e8ea2707ef74d7da5
+03/08/2025  12:02 AM               583 52c6f78178de5c4d16b29793f11cfe6b3c930c
+               2 File(s)          1,620 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\1a
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM             2,546 2c0b98bc97eac418c25a02a46c98f9f3f605ac
+03/08/2025  12:02 AM               418 33f341f21f3b3c8cef7f69a218454a686ed9e3
+               2 File(s)          2,964 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\1b
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM                30 ecba2bb0a80e7b9b0a7715f15e56512a7e5f7e
+               1 File(s)             30 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\1c
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM             1,120 c7fc43c31cab447e8a35f7a6026afb8582a9ba
+               1 File(s)          1,120 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\1d
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               749 4a58464e59434b6f67e23093b9fb358a622b47
+               1 File(s)            749 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\1e
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM             1,085 51e357690cdf78fcb411864e40dd7dffc9b75f
+               1 File(s)          1,085 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\21
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM             2,213 7216283a11e0a9375ce8e2cb7c2c3f4e418597
+03/08/2025  12:02 AM             1,469 9327de9331d4cccbaf53679c36bd3a096309b6
+               2 File(s)          3,682 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\22
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               933 9f9fc37d3b2f191681d6c9dc79cfb642f59cd3
+               1 File(s)            933 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\23
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               229 7e2542c648ac549d95bd5a477a4f6c836ce3b6
+03/08/2025  12:02 AM               854 f9abbbcb5e78e3ca6ff517d14e05a760ef22ca
+               2 File(s)          1,083 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\25
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM             5,239 44ba311d936485b988153480d5c544be178f57
+03/08/2025  12:02 AM               899 f9519b43c73e447a6070c5aa37d09ccd1ebf0f
+               2 File(s)          6,138 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\26
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               968 916268f545edc5ec0a12152721388f5464c571
+               1 File(s)            968 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\27
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               189 4e7b456dcac33e025dffc77c7fcf47d048610d
+03/08/2025  12:02 AM               569 5b5cbfadc4b9bd6104a2c75a9f0d226a30a73a
+               2 File(s)            758 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\2b
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               176 1835757aea16a78182bc0a7e49647dacae33c5
+               1 File(s)            176 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\2c
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               260 426f122c5818d0cd363a4b97d1c4a89905c569
+               1 File(s)            260 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\2d
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM             2,890 8f5e5f3ca0939475601ad1f9ed2935daa73f93
+               1 File(s)          2,890 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\2e
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               610 26549a0a600fc01fff33c6b09aa2eb3d8a9440
+03/08/2025  12:02 AM               272 6ef1661e7e35071650f3e7abc3602bf2d6536a
+               2 File(s)            882 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\30
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               378 f717183540355c070f05e45bbe31468eb10a10
+               1 File(s)            378 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\32
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               152 67d366653caff53ab5df326825bf7d4e2c56c9
+03/08/2025  12:02 AM               404 83fc1ebf4b7a9baf08d38bda7b3f45b869cd7b
+               2 File(s)            556 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\33
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               355 a9cc04f930847a07ca9f1ada60f627b8f692be
+               1 File(s)            355 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\35
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               122 b15d616bbd77ad7b0fb4c910fdf428d47c7f4e
+               1 File(s)            122 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\36
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               692 1acdf3234bfff4567f4015ab7859d8d42a0959
+03/08/2025  12:02 AM               676 82fbb23c383c7774e9af71299ee03be73bcc42
+               2 File(s)          1,368 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\37
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM             1,245 1f39ab24842bb069fa00d2466b996a4a778e04
+03/08/2025  12:02 AM               174 93e427d038aadf328573a98e56f99a521df25f
+               2 File(s)          1,419 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\38
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM             1,398 5ed161697cc5d67abdc707eda5a45d3c24782a
+03/08/2025  12:02 AM             1,692 e39246df79bc41f5ae60aadce23af8a9f72184
+               2 File(s)          3,090 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\39
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM             2,949 4d5f619d25e78585a87a2ff1573f28786143b7
+03/08/2025  12:02 AM             1,108 9654169795ea133153021aaac43cbb7d6e5ff5
+               2 File(s)          4,057 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\3a
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               207 aa5873037f0c71c842552efe8df9446eae8074
+               1 File(s)            207 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\3b
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               358 48546d3796d696a97bda91f24bdb3eb417414d
+03/08/2025  12:02 AM                67 53a74a69d23c84898e1ad4d3b5774a7e82aded
+03/08/2025  12:02 AM               511 b113be372b76da0db5d7ee1355e552912d9f0e
+03/08/2025  12:02 AM               425 d2867a7cadc0da64a5eb89ad6f9db0df5b70cd
+               4 File(s)          1,361 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\3c
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               332 c79b633c800bae4e9ed0c7a76204c22a70b00e
+03/08/2025  12:02 AM               709 dc5f568a84aed20ff44a87fab1a0c2d6056bdf
+               2 File(s)          1,041 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\3d
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               995 03e56566c40987d944dee4b7d98f058ff3bdf8
+03/08/2025  12:02 AM               793 864ddc33116641627bc94407bbfc40f2c3fe7d
+03/08/2025  12:02 AM                99 dfc37e28d06ba3e4a96ac47b6407d14b79f544
+               3 File(s)          1,887 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\3e
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               366 767cb2b4acac0a368a52d6383d4da956face9e
+               1 File(s)            366 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\3f
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM                66 031197b020ab00dbc1e8bbfdc7a56bece9a62b
+               1 File(s)             66 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\40
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               598 f6a916c66c1f11e14edc3e747a8221a5bb44f3
+               1 File(s)            598 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\42
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               680 87f7ee65176d136dbc664eb8f8eabc9e4ea839
+               1 File(s)            680 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\43
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               327 16486ec8c19e3f66c604667d4eaed250884b59
+03/08/2025  12:02 AM             1,318 cdda1fed5b2ac93f913cb2a9a5e49ea9d3db45
+               2 File(s)          1,645 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\45
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               837 88933e60956afc96a90210f6062c82cec592c3
+               1 File(s)            837 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\46
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM             2,790 2d47500721398aa14ed37aba5bfe87a0d39e61
+               1 File(s)          2,790 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\48
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM             1,166 5d677e98a1e1ee0b0b10c733dd01d28d8d48f8
+               1 File(s)          1,166 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\4b
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM             1,430 5160e4b1d42dc6b3a16554b854d339dd700858
+               1 File(s)          1,430 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\4c
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               873 efe8d798b0eeae3a489d60c5efefad1412d99d
+               1 File(s)            873 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\4e
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               314 2a3c7c83ef8162c65c7d665bc2055360996a2f
+03/08/2025  12:02 AM               106 bc07024daf2a0cb0c7e7e8a04431e7369c2032
+03/08/2025  12:02 AM             1,096 e6fbac638a8c6224f6aae4547457706f4a1847
+               3 File(s)          1,516 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\55
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM             1,824 9fbc5c9b65def22a102292a548854091a39cf5
+03/08/2025  12:02 AM               395 cbb8842b76c0547a587e1ee3dd5741246e48e6
+               2 File(s)          2,219 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\58
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               640 0e1121e3c90f8dfba2e46a4a418824bc965084
+               1 File(s)            640 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\5b
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM             1,042 cbca4354f35efd31e576da02f52511ed9469b6
+               1 File(s)          1,042 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\5c
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               235 baf8c621a4d45095032db68c4081e7eab0f0e7
+03/08/2025  12:02 AM             1,270 f6c3c6ab4662f216f482d34e0e1dd2660d0b09
+               2 File(s)          1,505 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\61
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM             1,832 ec3460a741f0fca329e5a2438ccdc9db51f09d
+               1 File(s)          1,832 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\62
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               441 263f3085a3e9e4127be008fc12df4b89932824
+               1 File(s)            441 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\63
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM             1,664 0ab96f753835be5cb9a5341d896dcecebb2401
+03/08/2025  12:02 AM               212 5ac1b0aba5c95b42115759b7bcda044d2713fb
+               2 File(s)          1,876 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\64
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               490 0b113c66447e1df61cca8e49c4b18a81ce3c0b
+               1 File(s)            490 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\65
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM             1,322 188faf3af76669197c2f97ff93a1a5ff3b8bcb
+03/08/2025  12:02 AM               420 b8160639b73f4c1ae19b23fe4b82d54fbf476a
+               2 File(s)          1,742 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\67
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM                57 dc9e3de2d4f90148dc569fe5c6e8761e4ddb5c
+               1 File(s)             57 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\68
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM             2,974 d1651582ac0741d65594ac4f46ba99f75faf1a
+               1 File(s)          2,974 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\6b
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM             1,357 0619702085249054f96b08c590d4704f3e2702
+03/08/2025  12:02 AM                55 6787dcd124b08cbe754dca375d4780fe93829d
+               2 File(s)          1,412 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\6c
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               162 67215cb3885839dab885fe78f331abcbd48e2b
+03/08/2025  12:02 AM             3,473 a2c662f2c52414c770a7ef7f15b8c92ffb54f1
+               2 File(s)          3,635 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\70
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               693 5006059f2515dd09dab039623e59566609c6a7
+               1 File(s)            693 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\71
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               166 f860305a1079a0bc5dfcadf0b80d9b4819ce92
+               1 File(s)            166 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\72
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               449 08792b0f020aeb4799c5cc43ddcab9cfcd621c
+03/08/2025  12:02 AM               457 0ca651fb85a9797f63b3a1a4d79ba8c4fa8b16
+03/08/2025  12:02 AM               646 5ecd0c6e08c9db7118bd28930882aee3609e03
+               3 File(s)          1,552 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\74
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM             1,957 382e32a3f3c20dc348b9ee7b146013c8205e6e
+               1 File(s)          1,957 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\76
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               121 152f79a23339861237bf8a4fee91405948764b
+03/08/2025  12:02 AM             1,277 4d20eb648ba0e961b7c05057b0fbc94621a02e
+               2 File(s)          1,398 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\7a
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               494 3c12c958f59f51e9c6414bfc1bfad45aac9300
+03/08/2025  12:02 AM             1,632 f64022d1a73d5c60869a8b77e3d510bfc0fa34
+               2 File(s)          2,126 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\7b
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM             2,028 84b8ff851fabc5b6312fd5af00170534d8833b
+03/08/2025  12:02 AM               410 c8f49dc63733513ca83f64a19c7d0d28a17e00
+               2 File(s)          2,438 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\7c
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               410 1805a812296066d9ab50df393c5a8b8fc7fc8a
+03/08/2025  12:02 AM               279 bfd347214ef953ca4a0831b3f7bb9614593a14
+               2 File(s)            689 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\7d
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               943 46f3c278f957663b8a95706ef4b0f904a002d9
+03/08/2025  12:02 AM               148 9528638d2419b4de655ecf2540dc0b75c237da
+               2 File(s)          1,091 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\81
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM             1,065 32611c74576112fecdec58ef53d5e37125d505
+03/08/2025  12:02 AM             4,057 a51480c6d173d2f712d1e226ca1b014be21e82
+               2 File(s)          5,122 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\82
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               356 c2e20ccc2bae01b6589f5f391cb20f34db41fd
+03/08/2025  12:02 AM               831 e9726fed10083cc15ff35f3a36d1e55c8f7c25
+               2 File(s)          1,187 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\83
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM             3,624 4ebb5964825e7f40bbbf10e59a0025244fe7b4
+03/08/2025  12:02 AM               279 ed995c874f3bec32c7b612de7357badadb5ad4
+03/08/2025  12:02 AM               280 f05b88550516865c825691d81b45de9ec45257
+               3 File(s)          4,183 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\84
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM             1,929 38e87b503a932505f5512d6146191df8539954
+               1 File(s)          1,929 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\85
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               217 fd87eba15db3172badea822a19a6e1f0ab86da
+               1 File(s)            217 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\87
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               230 65243ed4a4eb16b064035ad4092132917d0657
+03/08/2025  12:02 AM             4,089 a9f2ea859d0cf5dfcef8ebf2ae4798a43ca22d
+               2 File(s)          4,319 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\88
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               197 11021b650e2d7479752ca3041b4c69daa58351
+               1 File(s)            197 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\8b
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               918 802448081bc93317af9ccfe742ad470228286d
+03/08/2025  12:02 AM             1,603 99b25cb417f0b01cc5d33302d8bdde10345cff
+               2 File(s)          2,521 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\8e
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               881 6e6069e72980e417d98d876919defd7cb4e4d2
+03/08/2025  12:02 AM               121 a158b69b08ea540d0e35ff7c0364f6422fe0d1
+               2 File(s)          1,002 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\8f
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM             1,506 1656146c6f9105f9147cbfe22d9968c7d5a9a0
+03/08/2025  12:02 AM             2,161 5867f6bd3c93e2d57da1010c12b7b128c8061b
+               2 File(s)          3,667 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\91
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM             1,537 03c66d06df6f5991d0e0d623dfd8f623ec1e15
+               1 File(s)          1,537 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\94
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               775 8e4bbbfa32e542fba3f850e26c859f2caec32d
+               1 File(s)            775 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\95
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM             1,077 f5fa385d43551e76a8b632c2ed6c3b32ffacd6
+               1 File(s)          1,077 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\96
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               620 daeff5c65223593e27a14e02674ada7cac40e0
+               1 File(s)            620 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\97
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM             1,685 09d8a3397809463dfeb8f3400da989057b2ce1
+03/08/2025  12:02 AM             1,102 80aeb7f73d7e4e0a6330f7dc5be3d8a1d29e38
+               2 File(s)          2,787 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\98
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               767 21909bd0fe2f3099f7f65cc76f43f35057b1ab
+03/08/2025  12:02 AM             1,282 3660b35b3509e1591f12f9453425a68b52ec67
+               2 File(s)          2,049 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\9b
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               878 00f6a70c06d920863293b2bbbb3ec4c8a1b62d
+03/08/2025  12:02 AM             1,499 49b5df65e247262398fdf0f7712d7bab18e6be
+03/08/2025  12:02 AM             1,196 903f8302c72395bde556090275514c3588e616
+03/08/2025  12:02 AM               304 d929cdaaf822d881b9b1a03be4f4f854fa0d6d
+               4 File(s)          3,877 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\9d
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               543 33892afd15611ee75dfde899441a956c384df0
+               1 File(s)            543 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\a0
+
+03/08/2025  12:02 AM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               184 a50e12c9810eb63756b1b4a9091530d6eadffc
+               1 File(s)            184 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\a2
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM             1,097 319b61a4367d7b62e90cc3bc013ea823eeb5e0
+               1 File(s)          1,097 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\a4
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM                52 36cbed82572b32b1eb56f78571a847219c0f3d
+03/08/2025  12:02 AM               232 933d70185741b8ddd3000a361674afbd489b74
+               2 File(s)            284 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\a7
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               807 0124acedbeb8a2d92214b4167ddcf80712406a
+03/08/2025  12:02 AM               698 358cb9e99bd1d494fd745c18ee8965057bd30c
+03/08/2025  12:02 AM                59 d04f2f525cee66c303aeeb7fbf1d69f63b324d
+               3 File(s)          1,564 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\a8
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               430 b148fd40087d94720fac6757bca6d55281253f
+               1 File(s)            430 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\a9
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               279 15dbf76c8ee9b71460f8067bee7a92ee99cc08
+               1 File(s)            279 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\aa
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               927 894dfbd1aa2189c73fb808feea7b09a6eecf1b
+03/08/2025  12:02 AM               202 f67d6ac1cc8da26d94a2c90cf77f7b62332ad0
+               2 File(s)          1,129 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\ad
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               850 51396b13e1d2871f3dfaa547906e0c043275bc
+               1 File(s)            850 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\ae
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               556 bbca0765d0df5cbf96c655bfcaccf12f51ffe6
+               1 File(s)            556 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\b4
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               346 a5736a01cff5479091adc11a34582df870c453
+03/08/2025  12:02 AM               702 d5585fdff4699cb76f578aa5c41b9c9998a37c
+               2 File(s)          1,048 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\b5
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM             1,784 0470c740fc73f7a755128343125da3b0ae481b
+               1 File(s)          1,784 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\b7
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM                99 0a4b5b7fc3a5100a115b894656aea5138c4fb9
+03/08/2025  12:02 AM               101 76c711dbbfb4fa0ac387dd4be0c3969e2e0fb5
+               2 File(s)            200 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\b9
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               768 41c08f5542627d7cfb5838609b57b3eccf3dd9
+               1 File(s)            768 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\bb
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               944 25d7a9e8e1b5fa4ae4bc07e1bf1a72b9126c1c
+               1 File(s)            944 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\bc
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               864 85d1e63d0fb54c57821107f07ea23f78009b88
+03/08/2025  12:02 AM               489 8f537cf6b76fadbf0267698fcc341b1e08009a
+               2 File(s)          1,353 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\bd
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM             1,089 af6ce081bcf7c4577971ac735061c5f54b022f
+               1 File(s)          1,089 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\be
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               229 b749a351f05a5d91e6fbc9663997c8ac1cc478
+03/08/2025  12:02 AM               121 bbcd4d7ea56fb4fffd92fd8864412f38614030
+               2 File(s)            350 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\c0
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM            63,898 424135954dc5ae19193085c53af3587ec1c70e
+               1 File(s)         63,898 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\c4
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               583 df79048c7c6dd0bb661ba99361de02f573f151
+03/08/2025  12:02 AM               235 f710fe3260e5a487ba25197f33eb21ee70c7d7
+               2 File(s)            818 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\c5
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               493 0f4f60d2f68b89ff409ed471c36160cc52e528
+               1 File(s)            493 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\c6
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               147 a12e59fc7fbf1cc93e7e2f1e8d68451ce35bda
+               1 File(s)            147 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\c7
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM             1,655 2d6487e3f3a94cb4b479093b87762b54751bb8
+03/08/2025  12:02 AM               878 8cddbf6e8003cade4d60207ad35685175139ef
+               2 File(s)          2,533 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\c9
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM             1,548 50f3c83a3d1fafe13607a007d44672bd27315e
+03/08/2025  12:02 AM               922 c0b5dffbc67849cf5fac1e0ee5cc7cbdd8b0d1
+               2 File(s)          2,470 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\ca
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               481 725056e0cc0c63a088e897a75b4a7679d5e29d
+03/08/2025  12:02 AM                87 cd5a572c2a12ce3fccf97383bea528d25cea34
+03/08/2025  12:02 AM               117 ce3c26782d2bfeadb77ba5590cce3827f834fb
+               3 File(s)            685 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\cb
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               836 3cd05e0efc872562c3cc8d39b7d545940efd64
+03/08/2025  12:02 AM             1,197 6a1f6997c7f53b5cdf39be67bb4c04584f21b9
+               2 File(s)          2,033 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\cd
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/07/2025  11:37 PM               164 12d2032151d33321af5cf6da14e9e3ca94ac78
+               1 File(s)            164 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\ce
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               544 000ff80fd362c9b2bd15c83c04086155579c98
+               1 File(s)            544 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\cf
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM                52 91dacbcabc1e0c9b2888ff1049e777213c47c1
+               1 File(s)             52 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\d0
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               354 c0a8ff5c5a4b33197a6470eab7d3411c179c61
+               1 File(s)            354 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\d1
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               433 e5aae1e95d6dbfff1563e284461424d8dccfe2
+               1 File(s)            433 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\d2
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               608 3a1da904c0c208e39def8fb47c89003489a324
+03/08/2025  12:02 AM             1,522 54178791b8fb753b9aff194cf721c90b86753b
+03/08/2025  12:02 AM                92 fcdfd389ba0739c6f1ee068d74a84af00e7faf
+               3 File(s)          2,222 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\d5
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               916 92a3d888024e4f9d8fd25a10431241b4a4f7e6
+               1 File(s)            916 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\d6
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM             2,374 279a1d25b5bfa379afed2cdfe7906f964e93a6
+03/08/2025  12:02 AM               474 484d44ab67423514da513cc036f9b92dfe4f15
+03/08/2025  12:02 AM               293 ef77cc15233671d658fbd26739a860e919babd
+               3 File(s)          3,141 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\d7
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM             1,706 04dace9ea7aae4c9e38d4d114d4fee27cb9767
+03/08/2025  12:02 AM             1,284 fdd9ef8f36814a92cd4768fffc13e660b61682
+               2 File(s)          2,990 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\d8
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM             1,141 1d44ff71046430c3772cccbd33d3bbafc0c7b1
+03/08/2025  12:02 AM             1,067 9ed6dda4d604b32d648450504060f3e61ab748
+               2 File(s)          2,208 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\da
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM             1,440 14a84aba8118e9c1c52d6dc586d5bacaa641e2
+               1 File(s)          1,440 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\dc
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               470 3b7d5b9e161747a34774e23155888a02d4f8c0
+               1 File(s)            470 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\dd
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               683 c7db77211fbf458c4c2fe80aa28f879ffa6c89
+03/08/2025  12:02 AM               181 d9c09fff8400bd39d8bd32d07dc4eacfa3e918
+               2 File(s)            864 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\de
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM             1,800 35cf45d9e1c37e91c4656c31da9a11ff1fd85c
+               1 File(s)          1,800 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\df
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM             1,166 2a8780f06680348f9a3c26c5700d179c8b4578
+               1 File(s)          1,166 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\e0
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM             2,044 57eeb26839708b9fcf9de005d8718bea1c00b9
+               1 File(s)          2,044 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\e1
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM                86 619f35ea62a03c5ba4f2b799beb469c8929d3b
+03/08/2025  12:02 AM               625 be1fe6ce19ce81276e18672d5e859a0ad24724
+               2 File(s)            711 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\e2
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM             1,288 3d1f02d72b2b27610435cad47188b0dfaea6cf
+03/08/2025  12:02 AM             1,094 bdd9f5189bcb955c4ac920740d5d8dbaf26d25
+03/08/2025  12:02 AM               629 f386e19e9fa3a02735e35369080e9c0dbdd7c6
+               3 File(s)          3,011 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\e3
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               245 865e3d1e758267befcb2b522cb7d15ceabf9eb
+               1 File(s)            245 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\e4
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               987 2b30a5804e2611289210550124efa464882001
+03/08/2025  12:02 AM                63 918edaf8db82050f88c1011d6740b0d0ff986e
+03/08/2025  12:02 AM               346 d3fa2c1bbb96f7fc3883d4124674686dbe57a0
+               3 File(s)          1,396 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\e5
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM             2,047 80b34b87177bd63ee2623133b1e82f66f640aa
+03/08/2025  12:02 AM             1,039 c295a567754002a40d94a89cdc097a1aeeb201
+               2 File(s)          3,086 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\e6
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM             1,736 3e4c8168c139a6ac9bfae9a3f694eeb974b5d3
+03/08/2025  12:02 AM                15 9de29bb2d1d6434b8b29ae775ad8c2e48c5391
+               2 File(s)          1,751 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\e8
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               618 5fcab71eb9dab996e247667a8df493cabab09e
+03/08/2025  12:02 AM             1,467 f59be1e1e7cfeecf5416c359d70f468a2e2641
+               2 File(s)          2,085 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\ea
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               151 58e654ec8b30897b06eaea11dc462717753b6a
+03/08/2025  12:02 AM             2,104 8741f1358f62618fbf971e4b9296b9d8221bf1
+03/08/2025  12:02 AM               271 c38c1335f0a5db6235989586d1c3535baa629a
+               3 File(s)          2,526 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\ed
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM             1,724 ca1bd41ff20f7b02c3000430342b778e8f4eb4
+               1 File(s)          1,724 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\f0
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM             1,103 a192eb40b234f528416de36597cff5703fe98e
+               1 File(s)          1,103 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\f4
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM             1,005 35e16286495d3b78e7c655e1ba65d02dd9ee54
+03/08/2025  12:02 AM             2,278 a869f618163cb95e04711fec28dc9ea0e71221
+03/08/2025  12:02 AM               553 c46c5af3582f4498b68d6ec783032bbc8eab79
+               3 File(s)          3,836 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\f5
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM             1,772 8605e3db5c1a3e040bedd3f35987521d583ed5
+03/08/2025  12:02 AM               163 c2ad936d490d017d0dbffa599cdba6c5d363f8
+               2 File(s)          1,935 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\f8
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               261 7a4e11fc8b840ae32ba8698bc99876d6a5b101
+03/08/2025  12:02 AM               887 7e94e0763e5e4ebcfe6d0150c25e15d65b520c
+               2 File(s)          1,148 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\f9
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               216 a4052a028615d9466bebfab194b9a56653b932
+               1 File(s)            216 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\fa
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               818 44a3b24631c9bef700c19a7ba7315f133182a6
+03/08/2025  12:02 AM               231 55a3a50b289d28e764525e70b6034fb0125eb8
+03/08/2025  12:02 AM             2,523 f8f12f5083c0567243da93412bec5479de9471
+               3 File(s)          3,572 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\fb
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM               634 2d673f25e439f91a64b8e1b6c664b423d2a9c9
+03/08/2025  12:02 AM             1,457 593baf39251617dc36892cc8929598db51de59
+03/08/2025  12:02 AM                82 e14a4c98ae1e88685c21b79c95250d724fd43f
+               3 File(s)          2,173 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\fc
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM             2,053 40024081b14c630d588d7bcf8f9207705cddd2
+03/08/2025  12:02 AM               310 bebea01776ee938f5dbeec9f58d53c02b285ba
+03/07/2025  11:37 PM                50 e5e232c7c63a17eb207f86dec1fe2da82b1b9d
+               3 File(s)          2,413 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\ff
+
+03/07/2025  11:37 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+03/08/2025  12:02 AM             1,043 2f8b7b551183c15f494b3a7e12afad77c2da7e
+               1 File(s)          1,043 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\info
+
+03/07/2025  11:36 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\objects\pack
+
+03/07/2025  11:36 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\refs
+
+03/07/2025  11:44 PM    <DIR>          .
+03/08/2025  12:02 AM    <DIR>          heads
+03/07/2025  11:44 PM    <DIR>          remotes
+03/07/2025  11:36 PM    <DIR>          tags
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\refs\heads
+
+03/08/2025  12:02 AM    <DIR>          .
+03/07/2025  11:44 PM    <DIR>          ..
+03/08/2025  12:02 AM                41 master
+               1 File(s)             41 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\refs\remotes
+
+03/07/2025  11:44 PM    <DIR>          .
+03/07/2025  11:44 PM    <DIR>          ..
+03/08/2025  12:21 AM    <DIR>          origin
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\refs\remotes\origin
+
+03/08/2025  12:21 AM    <DIR>          .
+03/07/2025  11:44 PM    <DIR>          ..
+03/08/2025  12:12 AM                41 master
+               1 File(s)             41 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\.git\refs\tags
+
+03/07/2025  11:36 PM    <DIR>          .
+03/07/2025  11:44 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\public
+
+03/07/2025  11:34 PM    <DIR>          .
+03/08/2025  04:14 AM    <DIR>          ..
+03/07/2025  11:34 PM                14 kooki3-logo.png
+03/07/2025  11:34 PM               696 kooki3-logo.svg
+               2 File(s)            710 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\server
+
+03/07/2025  11:34 PM    <DIR>          .
+03/08/2025  04:14 AM    <DIR>          ..
+03/07/2025  11:34 PM    <DIR>          db
+03/07/2025  11:34 PM               869 index.ts
+03/07/2025  11:34 PM    <DIR>          middleware
+03/07/2025  11:34 PM    <DIR>          routes
+03/07/2025  11:34 PM    <DIR>          scripts
+               1 File(s)            869 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\server\db
+
+03/07/2025  11:34 PM    <DIR>          .
+03/07/2025  11:34 PM    <DIR>          ..
+03/07/2025  11:34 PM               189 checkUsers.ts
+03/07/2025  11:34 PM             2,176 index.ts
+03/07/2025  11:34 PM             6,346 schema.sql
+               3 File(s)          8,711 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\server\middleware
+
+03/07/2025  11:34 PM    <DIR>          .
+03/07/2025  11:34 PM    <DIR>          ..
+03/07/2025  11:34 PM               748 authMiddleware.ts
+03/07/2025  11:34 PM               372 validateRequest.ts
+               2 File(s)          1,120 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\server\routes
+
+03/07/2025  11:34 PM    <DIR>          .
+03/07/2025  11:34 PM    <DIR>          ..
+03/07/2025  11:34 PM             5,260 auth.ts
+               1 File(s)          5,260 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\server\scripts
+
+03/07/2025  11:34 PM    <DIR>          .
+03/07/2025  11:34 PM    <DIR>          ..
+03/07/2025  11:34 PM             1,359 createAdmin.ts
+               1 File(s)          1,359 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\src
+
+03/07/2025  11:34 PM    <DIR>          .
+03/08/2025  04:14 AM    <DIR>          ..
+03/07/2025  11:34 PM             3,590 App.tsx
+03/07/2025  11:34 PM    <DIR>          components
+03/07/2025  11:34 PM    <DIR>          config
+03/07/2025  11:34 PM    <DIR>          context
+03/07/2025  11:34 PM    <DIR>          data
+03/07/2025  11:34 PM    <DIR>          hooks
+03/07/2025  11:34 PM             2,642 index.css
+03/07/2025  11:34 PM    <DIR>          lib
+03/07/2025  11:34 PM             1,154 main.tsx
+03/07/2025  11:34 PM    <DIR>          middleware
+03/07/2025  11:34 PM    <DIR>          services
+03/07/2025  11:34 PM    <DIR>          styles
+03/07/2025  11:34 PM    <DIR>          types
+03/07/2025  11:34 PM    <DIR>          utils
+03/07/2025  11:34 PM               441 vite-env.d.ts
+               4 File(s)          7,827 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\src\components
+
+03/07/2025  11:34 PM    <DIR>          .
+03/07/2025  11:34 PM    <DIR>          ..
+03/07/2025  11:34 PM    <DIR>          Auth
+03/07/2025  11:34 PM    <DIR>          calendar
+03/07/2025  11:34 PM             1,217 CategoryBar.tsx
+03/07/2025  11:34 PM             5,715 CompatibilityCheck.tsx
+03/07/2025  11:34 PM    <DIR>          crypto
+03/07/2025  11:34 PM             2,321 ErrorBoundary.tsx
+03/07/2025  11:34 PM    <DIR>          events
+03/07/2025  11:34 PM               434 Home.tsx
+03/07/2025  11:34 PM    <DIR>          icons
+03/07/2025  11:34 PM    <DIR>          ImageManagement
+03/07/2025  11:34 PM    <DIR>          map
+03/07/2025  11:34 PM    <DIR>          marketplace
+03/07/2025  11:34 PM             5,246 Navbar.tsx
+03/07/2025  11:34 PM    <DIR>          navigation
+03/07/2025  11:34 PM    <DIR>          news
+03/07/2025  11:34 PM             5,618 NFTLibrary.tsx
+03/07/2025  11:34 PM             1,606 ProductCard.tsx
+03/07/2025  11:34 PM             2,290 ProfileDropdown.tsx
+03/07/2025  11:34 PM               715 ProtectedRoute.tsx
+03/07/2025  11:34 PM             5,154 SecondaryNav.tsx
+03/07/2025  11:34 PM    <DIR>          Settings
+03/07/2025  11:34 PM    <DIR>          social
+03/07/2025  11:34 PM             2,302 TestConnection.tsx
+03/07/2025  11:34 PM             3,501 TestSupabaseConnection.tsx
+03/07/2025  11:34 PM             2,529 ThemeTest.tsx
+03/07/2025  11:34 PM    <DIR>          UserProfile
+03/07/2025  11:34 PM               370 UserProfile.tsx
+03/07/2025  11:34 PM            11,915 WalletConnect.tsx
+03/07/2025  11:34 PM             7,904 WalletDashboard.tsx
+03/07/2025  11:34 PM             3,046 WelcomeModal.tsx
+              17 File(s)         61,883 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\src\components\Auth
+
+03/07/2025  11:34 PM    <DIR>          .
+03/07/2025  11:34 PM    <DIR>          ..
+03/07/2025  11:34 PM             1,322 AuthCallback.tsx
+03/07/2025  11:34 PM             1,500 AuthContext.tsx
+03/07/2025  11:34 PM             1,542 AuthForm.tsx
+03/07/2025  11:34 PM             7,170 AuthModal.tsx
+03/07/2025  11:34 PM             9,251 CreateAccount.tsx
+03/07/2025  11:34 PM             1,005 GoogleAuthButton.tsx
+03/07/2025  11:34 PM               487 GoogleButton.tsx
+03/07/2025  11:34 PM               139 index.ts
+03/07/2025  11:34 PM             5,166 LoginForm.tsx
+03/07/2025  11:34 PM             6,808 LoginPage.tsx
+03/07/2025  11:34 PM             8,062 RegisterForm.tsx
+              11 File(s)         42,452 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\src\components\calendar
+
+03/07/2025  11:34 PM    <DIR>          .
+03/07/2025  11:34 PM    <DIR>          ..
+03/07/2025  11:34 PM             5,015 Calendar.tsx
+03/07/2025  11:34 PM                 0 CalendarHeader.tsx
+03/07/2025  11:34 PM                 0 CalendarSidebar.tsx
+03/07/2025  11:34 PM                 0 CalendarView.tsx
+03/07/2025  11:34 PM                 0 EventModal.tsx
+03/07/2025  11:34 PM                 0 useCalendarState.ts
+               6 File(s)          5,015 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\src\components\crypto
+
+03/07/2025  11:34 PM    <DIR>          .
+03/07/2025  11:34 PM    <DIR>          ..
+03/07/2025  11:34 PM             4,717 CryptoTickerBanner.tsx
+               1 File(s)          4,717 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\src\components\events
+
+03/07/2025  11:34 PM    <DIR>          .
+03/07/2025  11:34 PM    <DIR>          ..
+03/07/2025  11:34 PM             2,852 EventCard.tsx
+03/07/2025  11:34 PM             1,752 EventFilters.tsx
+03/07/2025  11:34 PM             4,073 EventsPage.tsx
+               3 File(s)          8,677 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\src\components\icons
+
+03/07/2025  11:34 PM    <DIR>          .
+03/07/2025  11:34 PM    <DIR>          ..
+03/07/2025  11:34 PM             1,762 Logo.tsx
+03/07/2025  11:34 PM             3,343 MetaMaskLogo.tsx
+03/07/2025  11:34 PM            11,142 PhantomLogo.tsx
+03/07/2025  11:34 PM               532 SolflareLogo.tsx
+               4 File(s)         16,779 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\src\components\ImageManagement
+
+03/07/2025  11:34 PM    <DIR>          .
+03/07/2025  11:34 PM    <DIR>          ..
+03/07/2025  11:34 PM             3,586 ImageEditor.tsx
+03/07/2025  11:34 PM             2,299 ImageGrid.tsx
+03/07/2025  11:34 PM             3,884 ImageManager.tsx
+03/07/2025  11:34 PM             2,373 ImageUploader.tsx
+               4 File(s)         12,142 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\src\components\map
+
+03/07/2025  11:34 PM    <DIR>          .
+03/07/2025  11:34 PM    <DIR>          ..
+03/07/2025  11:34 PM             4,888 EventMapFilters.tsx
+03/07/2025  11:34 PM             2,494 EventMapMarker.tsx
+03/07/2025  11:34 PM             2,769 MapHeader.tsx
+03/07/2025  11:34 PM             3,996 MapView.tsx
+03/07/2025  11:34 PM             1,946 StoreMapMarker.tsx
+               5 File(s)         16,093 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\src\components\marketplace
+
+03/07/2025  11:34 PM    <DIR>          .
+03/07/2025  11:34 PM    <DIR>          ..
+03/07/2025  11:34 PM               802 FeaturedStores.tsx
+03/07/2025  11:34 PM             3,466 MarketplacePage.tsx
+03/07/2025  11:34 PM             7,450 PopularProductsBanner.tsx
+03/07/2025  11:34 PM             3,222 ProductCard.tsx
+03/07/2025  11:34 PM             7,379 ProductPage.tsx
+03/07/2025  11:34 PM             2,548 StoreCard.tsx
+03/07/2025  11:34 PM             8,562 StorePage.tsx
+               7 File(s)         33,429 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\src\components\navigation
+
+03/07/2025  11:34 PM    <DIR>          .
+03/07/2025  11:34 PM    <DIR>          ..
+03/07/2025  11:34 PM             2,316 NavDropdown.tsx
+03/07/2025  11:34 PM             1,583 NavItem.tsx
+03/07/2025  11:34 PM             3,671 SocialDropdown.tsx
+               3 File(s)          7,570 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\src\components\news
+
+03/07/2025  11:34 PM    <DIR>          .
+03/07/2025  11:34 PM    <DIR>          ..
+03/07/2025  11:34 PM             2,658 BreakingNewsBanner.tsx
+03/07/2025  11:34 PM             3,499 CryptoNewsSection.tsx
+03/07/2025  11:34 PM             3,117 NewsCard.tsx
+03/07/2025  11:34 PM             1,567 NewsCategory.tsx
+03/07/2025  11:34 PM             5,853 NewsDashboard.tsx
+03/07/2025  11:34 PM             1,883 TrendingSection.tsx
+               6 File(s)         18,577 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\src\components\Settings
+
+03/07/2025  11:34 PM    <DIR>          .
+03/07/2025  11:34 PM    <DIR>          ..
+03/07/2025  11:34 PM             2,833 AppearanceSettings.tsx
+03/07/2025  11:34 PM             5,554 NotificationSettings.tsx
+03/07/2025  11:34 PM             4,763 ProfileSettings.tsx
+03/07/2025  11:34 PM             4,580 SecuritySettings.tsx
+03/07/2025  11:34 PM             3,681 SettingsModal.tsx
+               5 File(s)         21,411 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\src\components\social
+
+03/07/2025  11:34 PM    <DIR>          .
+03/07/2025  11:34 PM    <DIR>          ..
+03/07/2025  11:34 PM             2,310 CreatePost.tsx
+03/07/2025  11:34 PM             2,262 ExploreView.tsx
+03/07/2025  11:34 PM             1,761 Feed.tsx
+03/07/2025  11:34 PM             3,384 FeedFilters.tsx
+03/07/2025  11:34 PM             2,433 GroupsView.tsx
+03/07/2025  11:34 PM             2,619 MessagesView.tsx
+03/07/2025  11:34 PM               381 NotificationBadge.tsx
+03/07/2025  11:34 PM             4,931 PostCard.tsx
+03/07/2025  11:34 PM             1,414 SavedView.tsx
+03/07/2025  11:34 PM             1,457 SocialHub.tsx
+03/07/2025  11:34 PM             1,358 SocialNav.tsx
+03/07/2025  11:34 PM             1,489 SocialSidebar.tsx
+03/07/2025  11:34 PM             1,728 TrendingSidebar.tsx
+              13 File(s)         27,527 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\src\components\UserProfile
+
+03/07/2025  11:34 PM    <DIR>          .
+03/07/2025  11:34 PM    <DIR>          ..
+03/07/2025  11:34 PM               252 index.ts
+03/07/2025  11:34 PM             7,606 PasswordForm.tsx
+03/07/2025  11:34 PM            10,568 PersonalInfoForm.tsx
+03/07/2025  11:34 PM            13,004 PreferencesForm.tsx
+03/07/2025  11:34 PM             5,604 SecuritySettings.tsx
+03/07/2025  11:34 PM             5,424 SocialMediaForm.tsx
+03/07/2025  11:34 PM            13,331 StoreItemForm.tsx
+03/07/2025  11:34 PM             5,292 StoreItemList.tsx
+03/07/2025  11:34 PM             5,485 StoreList.tsx
+03/07/2025  11:34 PM            15,982 StoreManagement.tsx
+03/07/2025  11:34 PM            18,665 StoreManagementForm.tsx
+03/07/2025  11:34 PM            24,517 StorePreview.tsx
+03/07/2025  11:34 PM             3,035 UserProfile.tsx
+03/07/2025  11:34 PM             6,814 WalletSettings.tsx
+              14 File(s)        135,579 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\src\config
+
+03/07/2025  11:34 PM    <DIR>          .
+03/07/2025  11:34 PM    <DIR>          ..
+03/07/2025  11:34 PM               451 auth.ts
+               1 File(s)            451 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\src\context
+
+03/07/2025  11:34 PM    <DIR>          .
+03/07/2025  11:34 PM    <DIR>          ..
+03/07/2025  11:34 PM             2,798 AuthContext.tsx
+03/07/2025  11:34 PM               889 FirebaseContext.tsx
+03/07/2025  11:34 PM               698 LoadingContext.tsx
+03/07/2025  11:34 PM             1,931 MarketplaceContext.tsx
+03/07/2025  11:34 PM             2,235 SocialContext.tsx
+03/07/2025  11:34 PM               860 StoreContext.tsx
+03/07/2025  11:34 PM             1,938 ThemeContext.tsx
+03/07/2025  11:34 PM             1,913 UserContext.tsx
+               8 File(s)         13,262 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\src\data
+
+03/07/2025  11:34 PM    <DIR>          .
+03/07/2025  11:34 PM    <DIR>          ..
+03/07/2025  11:34 PM             2,261 mockUsers.ts
+03/07/2025  11:34 PM             2,513 storeAddresses.ts
+03/07/2025  11:34 PM             4,118 stores.ts
+03/07/2025  11:34 PM             5,278 stores2.ts
+03/07/2025  11:34 PM            11,603 stores3.ts
+               5 File(s)         25,773 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\src\hooks
+
+03/07/2025  11:34 PM    <DIR>          .
+03/07/2025  11:34 PM    <DIR>          ..
+03/07/2025  11:34 PM             3,748 useAuth.ts
+03/07/2025  11:34 PM               482 useAuthGuard.ts
+03/07/2025  11:34 PM                 0 useCalendar.ts
+03/07/2025  11:34 PM             1,748 useCryptoNews.ts
+03/07/2025  11:34 PM             3,069 useEvents.ts
+03/07/2025  11:34 PM             2,243 useFeed.ts
+03/07/2025  11:34 PM             2,529 useFirebase.ts
+03/07/2025  11:34 PM               416 useFirstVisit.ts
+03/07/2025  11:34 PM             1,528 useGoogleAuth.ts
+03/07/2025  11:34 PM             2,395 useNFTs.ts
+03/07/2025  11:34 PM             3,108 useNotifications.ts
+03/07/2025  11:34 PM             2,593 useOrders.ts
+03/07/2025  11:34 PM               267 usePageTitle.ts
+03/07/2025  11:34 PM             2,930 useReviews.ts
+03/07/2025  11:34 PM               224 useScrollToTop.ts
+03/07/2025  11:34 PM             4,390 useStore.ts
+03/07/2025  11:34 PM             3,668 useSupabaseAuth.ts
+03/07/2025  11:34 PM             1,215 useTopCryptos.ts
+03/07/2025  11:34 PM            10,969 useWallet.ts
+              19 File(s)         47,522 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\src\lib
+
+03/07/2025  11:34 PM    <DIR>          .
+03/07/2025  11:34 PM    <DIR>          ..
+03/07/2025  11:34 PM               147 firebase.ts
+03/07/2025  11:34 PM               937 phantom.ts
+03/07/2025  11:34 PM             2,820 supabase.ts
+               3 File(s)          3,904 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\src\middleware
+
+03/07/2025  11:34 PM    <DIR>          .
+03/07/2025  11:34 PM    <DIR>          ..
+03/07/2025  11:34 PM               748 authMiddleware.ts
+03/07/2025  11:34 PM               372 validateRequest.ts
+               2 File(s)          1,120 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\src\services
+
+03/07/2025  11:34 PM    <DIR>          .
+03/07/2025  11:34 PM    <DIR>          ..
+03/07/2025  11:34 PM             8,055 coindesk.ts
+03/07/2025  11:34 PM             5,337 coingecko.ts
+03/07/2025  11:34 PM             1,172 firebase.ts
+03/07/2025  11:34 PM             1,089 nft.ts
+               4 File(s)         15,653 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\src\styles
+
+03/07/2025  11:34 PM    <DIR>          .
+03/07/2025  11:34 PM    <DIR>          ..
+03/07/2025  11:34 PM                 0 calendar.css
+               1 File(s)              0 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\src\types
+
+03/07/2025  11:34 PM    <DIR>          .
+03/07/2025  11:34 PM    <DIR>          ..
+03/07/2025  11:34 PM               248 auth.ts
+03/07/2025  11:34 PM                 0 calendar.ts
+03/07/2025  11:34 PM               442 event.ts
+03/07/2025  11:34 PM               189 image.ts
+03/07/2025  11:34 PM               271 news.ts
+03/07/2025  11:34 PM               486 nft.ts
+03/07/2025  11:34 PM               736 phantom.d.ts
+03/07/2025  11:34 PM               479 react-leaflet-cluster.d.ts
+03/07/2025  11:34 PM             1,518 social.ts
+03/07/2025  11:34 PM             1,392 store.ts
+03/07/2025  11:34 PM             9,926 supabase.ts
+03/07/2025  11:34 PM               498 user.ts
+03/07/2025  11:34 PM             1,278 window.d.ts
+              13 File(s)         17,463 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\src\utils
+
+03/07/2025  11:34 PM    <DIR>          .
+03/07/2025  11:34 PM    <DIR>          ..
+03/07/2025  11:34 PM             1,520 auth.ts
+03/07/2025  11:34 PM             1,329 browserDetect.ts
+03/07/2025  11:34 PM             1,845 compatibility.ts
+03/07/2025  11:34 PM               384 date.ts
+03/07/2025  11:34 PM               474 errorHandler.ts
+03/07/2025  11:34 PM             2,787 geocoding.ts
+               6 File(s)          8,339 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\supabase
+
+03/07/2025  11:34 PM    <DIR>          .
+03/08/2025  04:14 AM    <DIR>          ..
+03/07/2025  11:34 PM               447 config.toml
+03/07/2025  11:34 PM    <DIR>          migrations
+               1 File(s)            447 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\supabase\migrations
+
+03/07/2025  11:34 PM    <DIR>          .
+03/07/2025  11:34 PM    <DIR>          ..
+03/07/2025  11:34 PM             2,617 20250212082835_patient_mountain.sql
+03/07/2025  11:34 PM             1,941 20250213145704_dawn_union.sql
+03/07/2025  11:34 PM             2,246 20250213151034_bitter_union.sql
+03/07/2025  11:34 PM             2,433 20250213152104_throbbing_snow.sql
+03/07/2025  11:34 PM             4,826 20250213153731_wooden_feather.sql
+03/07/2025  11:34 PM             4,231 20250213155036_throbbing_hall.sql
+03/07/2025  11:34 PM             1,177 20250213155458_amber_sound.sql
+03/07/2025  11:34 PM             2,088 20250215053219_graceful_hill.sql
+03/07/2025  11:34 PM             1,883 20250215053454_bold_paper.sql
+03/07/2025  11:34 PM             1,304 20250215055223_peaceful_spire.sql
+03/07/2025  11:34 PM             2,836 20250215060315_empty_truth.sql
+03/07/2025  11:34 PM             4,707 20250303042758_purple_bridge.sql
+03/07/2025  11:34 PM             2,171 20250303044016_emerald_spring.sql
+03/07/2025  11:34 PM             6,801 20250303044202_heavy_plain.sql
+03/07/2025  11:34 PM             6,328 20250305050930_frosty_sea.sql
+03/07/2025  11:34 PM             7,641 20250305052243_shy_wildflower.sql
+03/07/2025  11:34 PM            11,753 20250305063952_gentle_gate.sql
+03/07/2025  11:34 PM            12,341 20250305064536_crimson_gate.sql
+03/07/2025  11:34 PM             6,713 20250308022425_purple_trail.sql
+03/07/2025  11:34 PM             3,543 20250308022714_spring_limit.sql
+03/07/2025  11:34 PM               536 20250308025448_fierce_term.sql
+              21 File(s)         90,116 bytes
+
+ Directory of C:\Users\toddo\Documents\Kooki3.xyz_v1\Kooki3.xyz_3.7.25\tests
+
+03/07/2025  11:34 PM    <DIR>          .
+03/08/2025  04:14 AM    <DIR>          ..
+03/07/2025  11:34 PM                 0 compatibility.spec.ts
+               1 File(s)              0 bytes
+
+     Total Files Listed:
+             494 File(s)      1,233,824 bytes
+             609 Dir(s)  847,065,870,336 bytes free
