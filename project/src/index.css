@@ -1,0 +1,135 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    color-scheme: light;
+  }
+
+  .dark {
+    color-scheme: dark;
+  }
+
+  html {
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  body {
+    @apply bg-gray-50 text-gray-900 transition-colors duration-200;
+  }
+
+  .dark body {
+    @apply bg-dark text-dark-primary;
+  }
+
+  /* Form Elements */
+  input[type="text"],
+  input[type="email"],
+  input[type="password"],
+  input[type="search"],
+  input[type="number"],
+  input[type="tel"],
+  textarea,
+  select {
+    @apply bg-white border-gray-300 text-gray-900 transition-colors duration-200;
+  }
+
+  .dark input[type="text"],
+  .dark input[type="email"],
+  .dark input[type="password"],
+  .dark input[type="search"],
+  .dark input[type="number"],
+  .dark input[type="tel"],
+  .dark textarea,
+  .dark select {
+    @apply bg-dark-input border-dark-border text-dark-primary placeholder-gray-500;
+  }
+
+  /* Focus States */
+  *:focus-visible {
+    @apply ring-2 ring-teal-500 ring-offset-2 outline-none;
+  }
+
+  .dark *:focus-visible {
+    @apply ring-teal-400 ring-offset-dark;
+  }
+}
+
+@layer components {
+  /* Card Styles */
+  .card {
+    @apply bg-white rounded-lg shadow-sm transition-all duration-200;
+  }
+
+  .dark .card {
+    @apply bg-dark-card shadow-dark-sm;
+  }
+
+  /* Modal Styles */
+  .modal-backdrop {
+    @apply fixed inset-0 bg-black/50 backdrop-blur-sm transition-opacity duration-200;
+  }
+
+  .dark .modal-backdrop {
+    @apply bg-black/70;
+  }
+
+  .modal-content {
+    @apply bg-white rounded-xl shadow-lg transition-all duration-200;
+  }
+
+  .dark .modal-content {
+    @apply bg-dark-paper shadow-dark-lg;
+  }
+
+  /* Button Styles */
+  .btn-primary {
+    @apply bg-teal-600 text-white hover:bg-teal-700 transition-colors duration-200;
+  }
+
+  .dark .btn-primary {
+    @apply bg-teal-500 hover:bg-teal-600;
+  }
+
+  .btn-secondary {
+    @apply bg-gray-100 text-gray-700 hover:bg-gray-200 transition-colors duration-200;
+  }
+
+  .dark .btn-secondary {
+    @apply bg-dark-card text-dark-primary hover:bg-dark-hover;
+  }
+}
+
+@layer utilities {
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+  
+  .scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(0.5rem);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fadeIn {
+  animation: fadeIn 0.2s ease-out forwards;
+}
+
+/* Dark mode transitions */
+.transition-theme {
+  transition-property: background-color, border-color, color, fill, stroke;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-duration: 200ms;
+}

@@ -1,0 +1,17 @@
+<svg
+  viewBox="0 0 800 600"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <!-- Main "kooki3" text -->
+  <text x="150" y="300" font-family="Arial" font-weight="bold" font-size="120" fill="currentColor">kooki3</text>
+  
+  <!-- Cookie icon -->
+  <circle cx="650" cy="300" r="120" stroke="currentColor" stroke-width="20" fill="none" />
+  <circle cx="600" cy="250" r="15" fill="currentColor" />
+  <circle cx="680" cy="280" r="20" fill="currentColor" />
+  <circle cx="630" cy="330" r="18" fill="currentColor" />
+  <circle cx="690" cy="350" r="15" fill="currentColor" />
+  <circle cx="650" cy="200" r="12" fill="currentColor" />
+  <circle cx="700" cy="220" r="10" fill="currentColor" />
+</svg>
